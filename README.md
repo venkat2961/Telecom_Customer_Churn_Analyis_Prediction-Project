@@ -69,29 +69,6 @@ telecom-churn-prediction/
 │
 ├── data/
 │   └── Telecom-Customer-Churn-Dataset.xlsx   # Source dataset (3 sheets)
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb                          # Exploratory Data Analysis
-│   ├── 02_preprocessing.ipynb                # Cleaning & feature engineering
-│   ├── 03_modeling.ipynb                     # Model training & evaluation
-│   └── 04_insights.ipynb                     # Business insights
-│
-├── src/
-│   ├── data_preprocessing.py                 # Cleaning pipeline
-│   ├── eda.py                                # EDA helper functions
-│   ├── model.py                              # Training & evaluation
-│   └── predict.py                            # Inference pipeline
-│
-├── models/
-│   ├── random_forest.pkl
-│   └── xgboost_model.pkl
-│
-├── reports/
-│   └── figures/                              # EDA plots & confusion matrices
-│
-├── requirements.txt
-└── README.md
-```
 
 ---
 
