@@ -406,8 +406,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 📬 Contact
 
-**Author:** Your Name
-**Email:** your.email@example.com
+**Author:** A.Venkata ramana
+**Email:** abbagonivenkat2004@gmail.com
 **GitHub:** [github.com/yourusername](https://github.com/venkat2961)
 
 ---
