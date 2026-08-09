@@ -275,14 +275,6 @@ jupyter notebook notebooks/01_EDA.ipynb
 python src/model.py --train
 ```
 
-### Predict Churn for New Customers
-
-```bash
-python src/predict.py --input data/new_customers.xlsx --output predictions.csv
-```
-
----
-
 ## 🔬 Analysis Workflow
 
 ### 1. Data Preprocessing
